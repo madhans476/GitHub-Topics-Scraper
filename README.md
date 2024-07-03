@@ -53,22 +53,22 @@ This project is a Python-based web scraper that extracts information from the Gi
 
 ## Example
 
-Example structure of the saved CSV files:
+1.  Example structure of the saved CSV files:
 
-```plaintext
-github_topics/
-├── Trending_github_topics.csv
-├── 3D.csv
-├── AI.csv
-├── Machine Learning.csv
-├── Web Development.csv
-└── ...
-```
-Each CSV file will have the following columns:
+    ```plaintext
+    github_topics/
+    ├── Trending_github_topics.csv
+    ├── 3D.csv
+    ├── AI.csv
+    ├── Machine Learning.csv
+    ├── Web Development.csv
+    └── ...
+    ```
+2.  Each CSV file will have the following columns:
 
-```plaintext
-── Repo Name
-── Username
-── Stars
-── Repo URL
-```
+    ```plaintext
+    ── Repo Name
+    ── Username
+    ── Stars
+    ── Repo URL
+    ```
