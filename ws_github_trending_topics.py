@@ -105,6 +105,6 @@ for i in range(len(url)):
 
     create_csv(dict, name[i])
 
-print(f"Completed scraping {url} !!!")
+print(f"Completed scraping !!!")
     
 
