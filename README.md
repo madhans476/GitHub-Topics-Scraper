@@ -66,7 +66,9 @@ github_topics/
 ```
 Each CSV file will have the following columns:
 
-──Repo Name
-──Username
-──Stars
-──Repo URL
+```plaintext
+── Repo Name
+── Username
+── Stars
+── Repo URL
+```
